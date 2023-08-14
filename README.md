@@ -1,3 +1,13 @@
+# Разработка сайта Freelancer portfolio на React
+
+## Готовая верска сайта перенесена в папку с установленным пакетом Create React App
+
+1. В папку src скопированы папки img и styles с файлами main.css и reset.css
+
+2.Из основного файла index.html скопирована разметка и вставлена в компонент App, переименованы атрибуты class на className. Закрыты все теги img.
+
+3. Импортированы иконки и переписаны src ссылки на jsx-синтаксис.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
