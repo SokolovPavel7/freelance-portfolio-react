@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/freelance-portfolio-react/static/css/main.fcd74e6b.css",
+    "main.js": "/freelance-portfolio-react/static/js/main.804c343b.js",
+    "static/js/787.8b11e2ca.chunk.js": "/freelance-portfolio-react/static/js/787.8b11e2ca.chunk.js",
+    "static/media/03-big.jpg": "/freelance-portfolio-react/static/media/03-big.1061950439c9cfa6d184.jpg",
+    "static/media/02-big.jpg": "/freelance-portfolio-react/static/media/02-big.e9ea2cc1647954c3e8c8.jpg",
+    "static/media/01-big.jpg": "/freelance-portfolio-react/static/media/01-big.e21303794e3ef41ed62a.jpg",
+    "static/media/06-big.jpg": "/freelance-portfolio-react/static/media/06-big.848ddfd63d52ecc8eb7e.jpg",
+    "static/media/05-big.jpg": "/freelance-portfolio-react/static/media/05-big.57f97231ccea2880ac2b.jpg",
+    "static/media/03.jpg": "/freelance-portfolio-react/static/media/03.8b92c6012831456ad55b.jpg",
+    "static/media/02.jpg": "/freelance-portfolio-react/static/media/02.c6e3cb26a7edb51480b7.jpg",
+    "static/media/06.jpg": "/freelance-portfolio-react/static/media/06.a6c8a4693dda567fe076.jpg",
+    "static/media/04-big.jpg": "/freelance-portfolio-react/static/media/04-big.2a8539eb76921add02c2.jpg",
+    "static/media/01.jpg": "/freelance-portfolio-react/static/media/01.2df0694aee31c9cbad76.jpg",
+    "static/media/04.jpg": "/freelance-portfolio-react/static/media/04.fd76c5ed0627ae0523a9.jpg",
+    "static/media/05.jpg": "/freelance-portfolio-react/static/media/05.6d55823c4a6866eb8601.jpg",
+    "static/media/header-bg.png": "/freelance-portfolio-react/static/media/header-bg.5bf82a058f892ab7f237.png",
+    "static/media/sun.svg": "/freelance-portfolio-react/static/media/sun.4d47962acd6c83e7e7aca592ec39545f.svg",
+    "static/media/moon.svg": "/freelance-portfolio-react/static/media/moon.829f022e764b1d37016e364c5447dfdb.svg",
+    "static/media/gitHub.svg": "/freelance-portfolio-react/static/media/gitHub.db1e3cfa3aa61658d837d82e113dc1fe.svg",
+    "static/media/gitHub-black.svg": "/freelance-portfolio-react/static/media/gitHub-black.61157a57f0853aa9fd2f3622b730cdfc.svg",
+    "static/media/instagram.svg": "/freelance-portfolio-react/static/media/instagram.c877a8275355fec38548544a6d0ab3b4.svg",
+    "static/media/vk.svg": "/freelance-portfolio-react/static/media/vk.ffb489eeac4ab842395ffb315910ea7f.svg",
+    "static/media/twitter.svg": "/freelance-portfolio-react/static/media/twitter.d4b0a40866d7b735834b96db6728afc1.svg",
+    "static/media/linkedIn.svg": "/freelance-portfolio-react/static/media/linkedIn.c05a2ae5b158581b0f27510e1d79e379.svg",
+    "index.html": "/freelance-portfolio-react/index.html",
+    "main.fcd74e6b.css.map": "/freelance-portfolio-react/static/css/main.fcd74e6b.css.map",
+    "main.804c343b.js.map": "/freelance-portfolio-react/static/js/main.804c343b.js.map",
+    "787.8b11e2ca.chunk.js.map": "/freelance-portfolio-react/static/js/787.8b11e2ca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fcd74e6b.css",
+    "static/js/main.804c343b.js"
+  ]
+}
