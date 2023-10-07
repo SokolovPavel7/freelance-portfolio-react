@@ -11,23 +11,23 @@ import ScrollToTop from './utils/scrollToTop';
 import './styles/main.css';
 
 function App() {
-  return (
-    <div className="App">
-      <Router>
-        <ScrollToTop />
-        <Navbar />
-        <Home />
-        <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/projects" element={<Projects />} />
-          <Route path="/project/:id" element={<Project />} />
-          <Route path="/contacts" element={<Contacts />} />
-        </Routes>
+    return (
+        <div className="App">
+            <Router>
+                <ScrollToTop />
+                <Navbar />
 
-        <Footer />
-      </Router>
-    </div>
-  );
+                <Routes>
+                    <Route path="/" element={<Home />} />
+                    <Route path="/projects" element={<Projects />} />
+                    <Route path="/project/:id" element={<Project />} />
+                    <Route path="/contacts" element={<Contacts />} />
+                </Routes>
+
+                <Footer />
+            </Router>
+        </div>
+    );
 }
 
 export default App;
